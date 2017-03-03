@@ -1,0 +1,26 @@
+{
+	"yue": 60000,
+	"today_xiaofei": 1000,
+	"doing_toufang": 20,
+	"yestoday_show": 10000,
+	"yestoday_click": 120000,
+	"yestoday_xiaofei": 5555,
+	"jihua_list": [
+		{
+			"name": "昨日尾条",
+			"start_status": 1,
+			"doing_status": 0,
+			"show_count": 12134,
+			"click_count": 4343434,
+			"click_lv": "5%"
+		},		
+		{
+			"name": "昨日尾条",
+			"start_status": 0,
+			"doing_status": 1,
+			"show_count": 12134,
+			"click_count": 4343434,
+			"click_lv": "5%"
+		}
+	]
+}

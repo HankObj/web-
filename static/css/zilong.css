@@ -1,0 +1,128 @@
+body{
+	background: #eee;
+}
+input{
+	outline: none;
+}
+.hide{
+	display: none;
+}
+.show{
+	display: block;
+}
+table.show{
+	display: table;
+}
+span.icon{
+	margin-right: 10px;
+	cursor: pointer;
+}
+table a:hover{
+	text-decoration: none;
+}
+i.fa{
+	margin: 0 2px;
+}
+.action{
+	cursor: pointer;
+}
+.table{
+	margin-bottom: 0;
+}
+.container{
+	width: 1200px;
+}
+.top-bar{
+	height: 36px;line-height: 36px;
+	color: #999;font-size: 14px;
+	background: #333;
+}
+
+.main-nav .navbar{
+	border-radius: 0;
+}
+.block{
+	margin-bottom: 30px;padding: 20px;
+	background: #fff;
+	border: 1px solid #e1e1e1;
+}
+.block.blank{
+	padding: 0;
+}
+.footer{
+	padding: 20px 0 5px 10px;
+	font-size: 14px;color: #666;
+	border-top: 1px solid #d1d1d1;
+	background: #ddd;
+}
+.footer a{
+	margin: 0 5px;
+}
+.home .infos strong{
+	font-size: 24px;
+}
+.Login .mcode.input-group-addon{
+	padding: 0;overflow: hidden;
+}
+
+.NewJihua label.radio-inline,
+.NewJihua label.checkbox-inline{
+	position: relative;top: 5px;
+}
+.card-block{
+	background: #eee;
+}
+.card-block label.radio-inline,
+.card-block label.checkbox-inline{
+	position: relative;top: 0px;
+}
+input[type=date].form-control, input[type=time].form-control, input[type=datetime-local].form-control, input[type=month].form-control {
+    line-height: 1;
+}
+::-webkit-inner-spin-button {
+	display: none;
+	opacity: 0;
+}
+::-webkit-clear-button{
+	display: none;
+	opacity: 0;
+}
+::-webkit-calendar-picker-indicator{
+	opacity: 0;
+}
+input[type=date]{
+	background: url(./rili.png) 110px center no-repeat;
+	background-size: 24px 24px;
+}
+.NewJihua input[type=date]{
+	width: 140px;
+}
+.iphone{
+	width: 240px;margin-top: 170px;padding: 10px 0;
+	text-align: center;
+	border: 1px solid #dfdfdf;
+}
+.iphone img{
+	max-width: 220px;max-height: 60px;
+	margin-bottom: 5px;
+}
+.iphone img.style1{
+	width: 100%;
+}
+.iphone img.style2{
+	width: 100%;
+}
+.iphone img.style3{
+	width: 30%;margin: 0 1.5%
+}
+
+.AdList .idea-list{
+	padding-left: 16px;
+}
+.AdList .plan-list{
+	padding-left: 32px;
+}
+.cur{display:none;}
+.checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] {
+     position: static;
+}
